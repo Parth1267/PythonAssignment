@@ -1,0 +1,3 @@
+hello world
+this is python program
+to read wirte files
